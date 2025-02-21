@@ -1,7 +1,7 @@
 # ToDoListProject
 
 ## Deskripsi
-To-Do List API adalah layanan berbasis RESTful yang memungkinkan pengguna untuk mengelola postingan. API ini dibangun menggunakan **Node.js** dan **Express.js**, serta mendukung operasi CRUD (Create, Read, Update, Delete). Dokumentasi API dibuat menggunakan **Swagger**.
+To-Do List adalah API yang memungkinkan pengguna untuk mengelola postingan. API ini dibangun menggunakan **Node.js** dan **Express.js**, serta mendukung operasi CRUD (Create, Read, Update, Delete). Dokumentasi API dibuat menggunakan **Swagger**.
 
 ## Fitur Utama
 - **Menambahkan item To-Do List** (`POST /api/todoList/tambahTodo`)
